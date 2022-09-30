@@ -1,0 +1,79 @@
+.division_principal{
+    display: grid;
+    grid-template-columns: 30% 70%;
+    grid-template-rows: auto;
+}
+
+.datos_Personales{
+    background-color: rgb(51, 50, 51);
+    display: grid;
+    grid-template-rows: 2, 1fr;
+    grid-template-columns: auto;
+    color: white;
+}
+
+.imagen1 {
+    text-align: center;
+    margin: 25px;
+}
+
+
+.datos_Personales h1{
+    color: rgb(8, 140, 238);
+    text-align: center;
+    font-size:x-large
+}
+
+
+.datos_Personales hr{
+    border: 2px solid rgb(63, 123, 169);
+    width: 95%;
+}
+
+.especializacion {
+    text-align: center;
+    color: white;
+}
+
+.margen_division1{
+    margin: 5%;
+}
+
+.resumen_mio{
+    background-color: rgb(230, 229, 233);
+}
+
+.resumen_mio fieldset{
+    margin: 25px;
+    border: 2px solid rgb(41, 148, 223);
+}
+
+
+.resumen_principal{
+    padding: 25px;
+}
+
+.resumen_principal hr{
+    border: 2px solid rgb(132, 182, 211);
+    width: 100%;
+}
+
+.centrar_t{
+    margin: 35px;
+}
+
+.tabla_re{
+    border: 3px solid black ;
+}
+
+.tabla_re th{
+    border: 3px solid black;
+}
+.tabla_re td{
+    border: 3px solid black;
+}
+
+.resumen_mio li{
+    list-style:inside;
+}
+
